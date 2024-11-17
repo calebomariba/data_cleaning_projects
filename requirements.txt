@@ -33,6 +33,7 @@ pure-eval
 Pygments
 pymssql==2.3.1
 PyMySQL==1.1.1
+pyreadr==0.5.2
 pyreadstat==1.2.8
 python-dateutil==2.9.0.post0
 pytz
