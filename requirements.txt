@@ -1,5 +1,7 @@
 asttokens
 Bottleneck
+certifi==2024.8.30
+charset-normalizer==3.4.0
 colorama
 comm==0.2.2
 debugpy==1.8.5
@@ -7,6 +9,7 @@ decorator
 et_xmlfile==2.0.0
 executing
 greenlet==3.1.1
+idna==3.10
 ipykernel==6.29.5
 ipython
 jedi
@@ -40,6 +43,7 @@ python-dateutil==2.9.0.post0
 pytz
 pywin32==306
 pyzmq==26.2.0
+requests==2.32.3
 setuptools==75.1.0
 six
 SQLAlchemy==2.0.36
@@ -48,5 +52,6 @@ tornado==6.4.1
 traitlets
 typing_extensions==4.12.2
 tzdata
+urllib3==2.2.3
 wcwidth
 wheel==0.44.0
